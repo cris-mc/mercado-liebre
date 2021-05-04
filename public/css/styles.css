@@ -311,11 +311,11 @@ footer{
 }
 
 .icono-footer{
-    margin: auto;
+    margin: 0 auto 10px auto;
     height: 50px;
     width: 50px;
     color: #1259c3;
-    font-size: 2rem;
+    font-size: 2em;
 }
 
 .icono-footer:hover{
